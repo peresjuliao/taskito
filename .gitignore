@@ -1,0 +1,19 @@
+# Binários
+taskito
+*.exe
+*.out
+
+# Arquivos de teste e build
+*.test
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dados locais de teste
+*.json
+!package.json
